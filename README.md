@@ -1,9 +1,8 @@
 # TargetToggle
 
-A lightweight Kerbal Space Program plugin that draws a magenta edge marker
-pointing toward your selected target when it's off-screen. The arrow respects
-the stock vessel-label toggle (F4) and the hide-UI toggle (F2), stays hidden in
-map view, and can be turned off entirely in the in-game difficulty settings.
+A lightweight Kerbal Space Program plugin that indicates when target visibility is  
+enabled or disabled. It also draws a magenta edge marker pointing
+ toward your selected target when it's off-screen.
 
 ## Features
 - Magenta edge indicator pointing to off-screen targets
